@@ -101,9 +101,6 @@ git clone https://github.com/snowolf/CPM-Bee-on-SageMaker.git
 ```
 
 
-
-![](./images/Picture14.png)
-
 ## 2. Fine tune CPM-Bee
 
 实验使用两种方式实现 ChatGLM 模型的微调: （二选一）
