@@ -3,6 +3,7 @@
 本实验将介绍如何在 [Amazon SageMaker](https://aws.amazon.com/cn/sagemaker/) 上进行 [CPM-Bee](https://github.com/OpenBMB/CPM-Bee) 模型的微调，内容包括：
 
 1、创建 SageMaker Notebook Instance.
+
 2、使用两种方式实现 CPM-Bee 模型的微调:
 
 - 通过 SageMaker Notebook
